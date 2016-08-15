@@ -30,8 +30,8 @@ config default => {
 
     # HatenaのOAuthアプリケーション登録をして、keyを埋めてください
     # http://developer.hatena.ne.jp/ja/documents/auth/apis/oauth/consumer
-    'hatena_oauth.consumer_key'    => 'xxxxxxxxxxxxx',
-    'hatena_oauth.consumer_secret' => 'xxxxxxxxxxxxxxxxxxxxxxxxx',
+    'hatena_oauth.consumer_key'    => '95HZ2EeEp3dJ9A==',
+    'hatena_oauth.consumer_secret' => 'AYVh9fO5cFqq/JhQ3FM1Fq2o7Ps=',
 };
 
 config production => {
